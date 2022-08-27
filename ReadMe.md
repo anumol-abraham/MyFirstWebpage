@@ -2,4 +2,4 @@ My First Webpage!
 
 (**IT-Tech for Women**)
 
-(*Sundsgården Folkhögskola, Helsingborg*)
+(_Sundsgården Folkhögskola, Helsingborg_)
